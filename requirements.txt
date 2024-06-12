@@ -2,4 +2,3 @@ torch
 torchxrayvision
 opencv-python
 matplotlib
-cv2
