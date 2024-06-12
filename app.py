@@ -81,7 +81,7 @@ def overlay_grid(image, grid_size=(10, 10)):
     return image
 
 # Interface utilisateur avec Streamlit
-st.set_page_config(page_title="Classification de Radiographies Thoraciques - Nova - Modèle 1 V.1 - Max A.", layout="wide")
+st.set_page_config(page_title="Classification de Radiographies Thoraciques - Nova - Modèle 1 V.1 - Max Aubert.", layout="wide")
 st.title("Classification de Radiographies Thoraciques")
 
 uploaded_file = st.file_uploader("Choisissez une image...", type="png")
